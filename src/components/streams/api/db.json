@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "first stream",
+      "description": "test stream",
+      "id": 1
+    },
+    {
+      "title": "second stream",
+      "description": "test stream",
+      "id": 2
+    },
+    {
+      "title": "third stream 1",
+      "description": "new stream with user ID 1",
+      "userId": "114182274161004707245",
+      "id": 3
+    },
+    {
+      "title": "Component Reuse 22",
+      "description": "after creating stream form component 22",
+      "userId": "114182274161004707245",
+      "id": 4
+    },
+    {
+      "title": "new test stream --",
+      "description": "bla bla stream 2",
+      "userId": "114182274161004707245",
+      "id": 5
+    }
+  ]
+}
